@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-printf("Jogo de Xadrez\n");
 // Definição das constantes para os movimentos das peças
 #define TORRE_MOV 5
 #define BISPO_MOV 5
